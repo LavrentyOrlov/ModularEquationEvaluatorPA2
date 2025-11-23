@@ -17,9 +17,8 @@ This program uses functions to perform several calculations based on user input,
 - IDE: Visual Studio Community
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/lavrentyorlov/ModularEquationEvaluatorPA2.git
+1. Clone the repository on your device's command-line interface:
+- ```git clone https://github.com/lavrentyorlov/ModularEquationEvaluatorPA2.git```
 2. Open the project in Visual Studio.
 3. Build the solution.
 4. Run the program.
